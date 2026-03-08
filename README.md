@@ -1,2 +1,2 @@
 # portfolio-optimization
-Portfolio Optimization using Python and Modern Portfolio Theory
+Portfolio Optimization using Python,YFinance and Modern Portfolio Theory
